@@ -47,4 +47,5 @@ If I were to start learning this topic all over again, I would suggest following
 3. **Learn how GNNs work:** I would recommend [this chapter](https://dmol.pub/dl/gnn.html), and [this video](https://www.youtube.com/watch?v=GXhBEj1ZtE8&t=188s&ab_channel=AlexFoo).
 4. **Gain practical tips for machine learning:** I would really recommend [these videos](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc) lectured by Andrew Ng. It features 32 short videos that explain many important topics in an easy-to-understand manner. This will give you a very good foundation.
 
+Do not hesitate to contact me if you have any questions. You can reach me either by [email](mailto:kristoffer.elstad.hansen@gmail.com) or on [LinkedIn](http://linkedin.com/in/kristoffer-elstad-hansen).
 
