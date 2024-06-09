@@ -35,3 +35,16 @@ The folders "General GNN model," "Specialized GNN model," and "VLE model" contai
 Please note that the file paths in the "run_models.ipynb" are configured to match my environment. To use these models on your computer, you will need to update these paths to correspond to your own setup. Specifically, you need to modify the code to indicate where you have stored the machine-learning models from the folders mentioned above on your system.
 
 Additionally, the code used to preprocess my datasets is located in the folder "Code for Preprocessing." However, since I have not published the data used to develop the machine-learning models due to confidentiality concerns, these files might not be very useful. Nonetheless, I chose to include them just in case.
+
+## Tips for Learning These Topics
+
+Firstly, it is important to acknowledge that there is a steep learning curve in the beginning. The initial stages can be overwhelming and confusing. However, if you are passionate about this topic and committed to learning, you will overcome these challenges. Remember, machine learning is created by humans and is fundamentally based on logic. Instead of getting bogged down by the mathematics, I highly recommend focusing on understanding the underlying concepts and the ideas behind the methods first. This will give you a good intuition of what is going on and make it a lot easier for you to resonate over the results you get.
+
+If I were to start learning this topic all over again, I would suggest following the structure of the theory section in my report. This approach will help you build a strong foundation and progress logically through the material. 
+
+1. **Learn the fundamental machine learning concepts:** [StatQuest on YouTube](https://www.youtube.com/user/joshstarmer) is a great resource for this.
+2. **Understand how neural networks work and learn:** The YouTube channel [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) offers excellent explanations about this topic (Deep learning videos Chapter 1-4).
+3. **Learn how GNNs work:** I would recommend [this chapter](https://dmol.pub/dl/gnn.html), and [this video](https://www.youtube.com/watch?v=GXhBEj1ZtE8&t=188s&ab_channel=AlexFoo).
+4. **Gain practical tips for machine learning:** I would really recommend [these videos](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc) lectured by Andrew Ng. It features 32 short videos that explain many important topics in an easy-to-understand manner. This will give you a very good foundation.
+
+
